@@ -1,2 +1,2 @@
 # Front-end-study
-Place where I am going to be depositing all my study projects related to front-end learning.
+Place where I am going to be depositing the link of all my **[Gist](https://gist.github.com/barbaraantonia)** study projects related to front-end learning.
